@@ -8,6 +8,7 @@ namespace HelloName
         {
             string name = "Manoj Angane";
             Console.WriteLine("Name: "+name);
+            Console.WriteLine("Enter Any Key to Exit");
             Console.ReadKey(true);
         }
     }
